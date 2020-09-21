@@ -1,8 +1,8 @@
-class  {
+   class Main {
   public static void main(String[] args) {
   int myAge = 14;
-  int myBirthday = 0628;
-  int todaysDate = 0921;
+  int myBirthday = 628;
+  int todaysDate = 921;
 
   if(myBirthday == todaysDate)
   { 
